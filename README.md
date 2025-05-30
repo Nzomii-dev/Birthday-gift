@@ -56,20 +56,19 @@
 </head>
 <body>
   <h1>Happy Birthday, Haruto! <span class="heart">❤</span></h1>
-  <img src="https://i.imgur.com/3ZQ3Z7L.jpg" alt="Cute Couple" class="photo">
+  <img src="https://i.pinimg.com/originals/d5/3a/fd/d53afd2ceb92715179699f7dc710238b.gif" alt="kitty kiss" class="gif">
   <p>
     On this special day, I just want to remind you how loved and appreciated you are.
     Your smile, your kindness, and your quiet strength light up my world every single day.
-    I hope your birthday is filled with as much joy as you've given me—because you deserve all of it and more.
+    I hope your birthday is filled with as much joy as you've given me because you deserve all of it and more.
     Here's to more memories, more laughter, and more love.
-    Happy birthday, my favorite person! 💕
+    Happy birthday, my love! 💕
   </p>
   <div class="footer">
     Made with love by Nozomi 💌
   </div>
   <audio autoplay loop>
-    <source src="https://www.bensound.com/bensound-music/bensound-love.mp3" type="audio/mp3">
-    Your browser does not support the audio element.
+    <source src="https://youtu.be/a7fzkqLozwA?feature=shared" type="audio/mp3">
   </audio>
 </body>
 </html>
